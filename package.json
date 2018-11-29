@@ -32,7 +32,7 @@
     "coveralls": "^3.0.0",
     "jest": "^23.6.0"
   },
-  "babel": {
+  "not_used_babel": {
     "presets": [
       "es2015",
       "stage-0"
